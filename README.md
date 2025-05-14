@@ -18,33 +18,6 @@ drfapp/\
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Python 3.8 or higher
-- pip (Python package manager)
-- Virtualenv (recommended)
-
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/play-with-drf.git
-cd play-with-drf
-
-# Create and activate virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-
-# Apply migrations and start the server
-python manage.py migrate
-python manage.py runserver
-
-```
-
----
 🔗 API Endpoints
 ----------------
 
@@ -69,6 +42,36 @@ If you have a Postman collection, link it here:
 [🔗 Postman Docs](https://documenter.getpostman.com/view/34356312/2sB2qUnjnY)
 
 * * * * *
+
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Python 3.8 or higher
+- pip (Python package manager)
+- Virtualenv (recommended)
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/play-with-drf.git
+cd drfapp
+
+# Create and activate virtual environment
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+
+# Apply migrations and start the server
+python manage.py migrate
+python manage.py runserver
+
+```
+
+---
+
 
 🧠 Features
 -----------

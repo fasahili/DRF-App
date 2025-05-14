@@ -66,7 +66,7 @@ Base URL: `http://127.0.0.1:8000/api/`
 
 If you have a Postman collection, link it here:
 
-[🔗 Postman Docs](https://www.postman.com/your-postman-link)
+[🔗 Postman Docs](https://documenter.getpostman.com/view/34356312/2sB2qUnjnY)
 
 * * * * *
 
